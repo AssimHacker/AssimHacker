@@ -1,0 +1,29 @@
+- 👋 Hi, I’m @AssimHacker
+- 👀 Here is the Commands 
+pkg up -y
+
+ 
+
+pkg install git -y
+
+ 
+
+pkg install python2 -y
+
+ 
+
+git clone https://github.com/Ranginang67/DarkFly-Tool
+
+ 
+
+cd DarkFly-Tool
+
+ 
+
+python2 install.py
+
+ 
+
+DarkFly 
+
+Thanks You 😊
